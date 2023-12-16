@@ -1,0 +1,1 @@
+This repo contain assessments, projects, assignments and test on Business intelligence using PowerBI and Tableau. You will need the sample data to recreate the dashboards. The data can be found here https://drive.google.com/drive/folders/1GwJ0OlHv7aehdsym8z-6bB__SkQM2FDj?usp=sharing
